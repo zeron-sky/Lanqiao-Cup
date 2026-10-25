@@ -1,8 +1,5 @@
-# Dev-C++ / MinGW build artifacts
-*.exe
-*.o
-*.obj
-*.bin
-*.bak
-*.layout
-build/
+# 仅保留 C++ 源码，其余文件全部忽略
+*
+!*/
+!*.cpp
+!.gitignore
