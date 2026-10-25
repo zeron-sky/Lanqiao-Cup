@@ -1,0 +1,8 @@
+# Dev-C++ / MinGW build artifacts
+*.exe
+*.o
+*.obj
+*.bin
+*.bak
+*.layout
+build/
